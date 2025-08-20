@@ -1,0 +1,18 @@
+GET http://localhost:5268/games
+
+####
+
+GET http://localhost:5268/games/3
+
+###
+
+GET http://localhost:5268/games
+Content-Type: application/json
+
+{
+    "name": "GTA V",
+    "genre": "Action game",
+    "price": 59.99,
+    "releaseDate": "2013-09-17",
+}
+

@@ -1,0 +1,52 @@
+D:\Gamestore\gamestore.api\bin\Debug\net8.0\appsettings.Development.json
+D:\Gamestore\gamestore.api\bin\Debug\net8.0\appsettings.json
+D:\Gamestore\gamestore.api\bin\Debug\net8.0\Gamestore.Api.exe
+D:\Gamestore\gamestore.api\bin\Debug\net8.0\Gamestore.Api.deps.json
+D:\Gamestore\gamestore.api\bin\Debug\net8.0\Gamestore.Api.runtimeconfig.json
+D:\Gamestore\gamestore.api\bin\Debug\net8.0\Gamestore.Api.dll
+D:\Gamestore\gamestore.api\bin\Debug\net8.0\Gamestore.Api.pdb
+D:\Gamestore\gamestore.api\obj\Debug\net8.0\Gamestore.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gamestore\gamestore.api\obj\Debug\net8.0\Gamestore.Api.AssemblyInfoInputs.cache
+D:\Gamestore\gamestore.api\obj\Debug\net8.0\Gamestore.Api.AssemblyInfo.cs
+D:\Gamestore\gamestore.api\obj\Debug\net8.0\Gamestore.Api.csproj.CoreCompileInputs.cache
+D:\Gamestore\gamestore.api\obj\Debug\net8.0\Gamestore.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Gamestore\gamestore.api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Gamestore\gamestore.api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Gamestore\gamestore.api\obj\Debug\net8.0\staticwebassets\msbuild.Gamestore.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Gamestore\gamestore.api\obj\Debug\net8.0\staticwebassets\msbuild.build.Gamestore.Api.props
+D:\Gamestore\gamestore.api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Gamestore.Api.props
+D:\Gamestore\gamestore.api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Gamestore.Api.props
+D:\Gamestore\gamestore.api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Gamestore\gamestore.api\obj\Debug\net8.0\scopedcss\bundle\Gamestore.Api.styles.css
+D:\Gamestore\gamestore.api\obj\Debug\net8.0\Gamestore.Api.dll
+D:\Gamestore\gamestore.api\obj\Debug\net8.0\refint\Gamestore.Api.dll
+D:\Gamestore\gamestore.api\obj\Debug\net8.0\Gamestore.Api.pdb
+D:\Gamestore\gamestore.api\obj\Debug\net8.0\Gamestore.Api.genruntimeconfig.cache
+D:\Gamestore\gamestore.api\obj\Debug\net8.0\ref\Gamestore.Api.dll
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\bin\Debug\net8.0\appsettings.json
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\bin\Debug\net8.0\Gamestore.Api.staticwebassets.endpoints.json
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\bin\Debug\net8.0\Gamestore.Api.exe
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\bin\Debug\net8.0\Gamestore.Api.deps.json
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\bin\Debug\net8.0\Gamestore.Api.runtimeconfig.json
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\bin\Debug\net8.0\Gamestore.Api.dll
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\bin\Debug\net8.0\Gamestore.Api.pdb
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\obj\Debug\net8.0\Gamestore.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\obj\Debug\net8.0\Gamestore.Api.AssemblyInfoInputs.cache
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\obj\Debug\net8.0\Gamestore.Api.AssemblyInfo.cs
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\obj\Debug\net8.0\Gamestore.Api.csproj.CoreCompileInputs.cache
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\obj\Debug\net8.0\Gamestore.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\obj\Debug\net8.0\scopedcss\bundle\Gamestore.Api.styles.css
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\obj\Debug\net8.0\Gamestore.Api.dll
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\obj\Debug\net8.0\refint\Gamestore.Api.dll
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\obj\Debug\net8.0\Gamestore.Api.pdb
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\obj\Debug\net8.0\Gamestore.Api.genruntimeconfig.cache
+D:\SV34_24-25\Semester 2\Final SETEC\C#\Gamestore\Gamestore.Api\obj\Debug\net8.0\ref\Gamestore.Api.dll
