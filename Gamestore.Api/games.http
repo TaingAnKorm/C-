@@ -6,13 +6,23 @@ GET http://localhost:5268/games/3
 
 ###
 
-GET http://localhost:5268/games
+POST http://localhost:5268/games
 Content-Type: application/json
 
 {
     "name": "GTA V",
     "genre": "Action game",
     "price": 59.99,
-    "releaseDate": "2013-09-17",
+    "releaseDate": "2013-09-17"
 }
 
+PUT http://localhost:5268/games/1
+Content-Type: application/json
+
+{
+    "id": 1,
+    "name": "Street Fighter II Turbo",
+    "genre": "Fighting",
+    "price": 9.99,
+    "releaseDate": "1991-02-01"
+}

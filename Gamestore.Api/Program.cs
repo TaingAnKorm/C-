@@ -50,6 +50,19 @@ public class Program
             // return Results.NoContent();
         });
 
+        app.MapPut("games/{id}", (int id, updateGameDto updatedGame) =>
+        {
+            var index = games.Find(game => game.Id == id);
+            games[index] = new GameDto(
+                id,
+                updatedGame.Name,
+                updatedGame.Genre,
+                updatedGame.Price,
+                updatedGame.ReleaseDate
+                );
+            return Results.NoContent();
+        });
+
 
 
         app.MapGet("/", () => "Hello World!");
